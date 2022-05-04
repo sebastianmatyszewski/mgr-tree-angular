@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mgr-tree-app": {
+      "hosting": {
+        "treeApp": [
+          "mgr-tree-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mgr-tree-app"
+  }
+}
